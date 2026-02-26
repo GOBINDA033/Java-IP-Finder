@@ -1,4 +1,4 @@
-//We are going to create An ArrayList
+//We are going to create an ArrayList
 import java.util.*;
 public class Main{
    static void String()
@@ -41,4 +41,5 @@ Integer();
 System.out.println("Third Method is called for the Double values"); 
 Double();
     }
+
 }
